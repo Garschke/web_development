@@ -9,9 +9,9 @@
 		<title>Andrew Garschke</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-		<link rel="stylesheet" href="css/main.css">
-		<link rel="icon" href="images/favicon.ico">
-		<noscript><link rel="stylesheet" href="css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="https://github.com/Garschke/web_development/tree/main/css/main.css">
+		<link rel="icon" href="https://github.com/Garschke/web_development/tree/main/images/favicon.ico">
+		<noscript><link rel="stylesheet" href="https://github.com/Garschke/web_development/tree/main/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
 		<div id="wrapper">
